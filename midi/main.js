@@ -17,6 +17,6 @@ for (let contador=0 ; contador < ListaDeTeclas.length ; contador++){
     //função anonima
     tecla.onclick = function (){
         tocaSom(audio);
-    };
+    }
 
 }
